@@ -1,4 +1,8 @@
 # 🧮 Java Swing Calculator (OnePlus Style)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Desktop-lightgrey?style=for-the-badge)
 
 A clean, professional **Calculator Desktop Application** built using **pure Java (Swing)**.  
 This project is inspired by the **OnePlus Nord Calculator UI** and focuses on **clean design, solid logic, and interview-ready code**.
